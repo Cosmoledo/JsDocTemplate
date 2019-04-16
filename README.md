@@ -12,6 +12,10 @@ A template based on [Docdash](https://github.com/clenemt/docdash) by [clenemtA](
 - Optimized color scheme for prettify
 - Minified version available
 
+## Live Example
+
+[https://cosmoledo.github.io/JsDocTemplate/example_out/](https://cosmoledo.github.io/JsDocTemplate/example_out/)
+
 ## Install
 
 - Download this repository

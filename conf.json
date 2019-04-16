@@ -1,6 +1,9 @@
 {
 	"jsdoctemplate": {
 		"collapse": false,
+		"meta": {
+			"title": "JsDocTemplate Example"
+		},
 		"navLevel": false,
 		"removeQuotes": "none",
 		"search": true,
