@@ -1,0 +1,64 @@
+.pln {
+	color: #F1F1F1
+}
+
+.str {
+	color: #E6DB74
+}
+
+.kwd {
+	color: #66D9EF
+}
+
+.com {
+	color: #75715E
+}
+
+.typ {
+	color: #66D9EF
+}
+
+.lit {
+	color: #fbde2d
+}
+
+.pun {
+	color: #ddd
+}
+
+.opn {
+	color: #000
+}
+
+.clo {
+	color: #000
+}
+
+.tag {
+	color: #8da6ce
+}
+
+.atn {
+	color: #fbde2d
+}
+
+.atv {
+	color: #ddd
+}
+
+.dec {
+	color: #ef5050
+}
+
+.var {
+	color: #c82829
+}
+
+.fun {
+	color: #4271ae
+}
+
+ol.linenums {
+	margin-top: 0;
+	margin-bottom: 0
+}

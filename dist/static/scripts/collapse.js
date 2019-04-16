@@ -1,0 +1,1 @@
+(()=>{const l=window.location.pathname.split("/").pop();document.querySelectorAll("nav > ul > li > ul li").forEach(l=>l.style.display="none"),document.querySelectorAll("nav > ul > li > a[href^='"+l+"']").forEach(l=>{l.parentNode.querySelectorAll("ul li").forEach(l=>l.style.display="block")})})();

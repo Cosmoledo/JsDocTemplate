@@ -1,0 +1,39 @@
+{
+	"jsdoctemplate": {
+		"collapse": false,
+		"navLevel": false,
+		"removeQuotes": "none",
+		"search": true,
+		"sort": true,
+		"static": true,
+		"typedefs": true,
+		"wrap": false
+	},
+	"opts": {
+		"access": "all",
+		"destination": "example_out",
+		"encoding": "utf8",
+		"readme": "./README.md",
+		"recurse": true,
+		"template": "templates/JsDocTemplate",
+		"verbose": true
+	},
+	"recurseDepth": 10,
+	"source": {
+		"excludePattern": "(^|\\/|\\\\)_",
+		"include": "example_src",
+		"includePattern": ".+\\.js(doc|x)?$"
+	},
+	"sourceType": "module",
+	"tags": {
+		"allowUnknownTags": true,
+		"dictionaries": [
+			"jsdoc",
+			"closure"
+		]
+	},
+	"templates": {
+		"cleverLinks": false,
+		"monospaceLinks": false
+	}
+}
