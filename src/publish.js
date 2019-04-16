@@ -58,7 +58,7 @@ function hashToLink(doclet, hash) {
 
 	const url = helper.createLink(doclet).replace(/(#.+|$)/, hash);
 
-	return `<a href="${url}">${hash}</a>`;
+	return `<a target="_blank" href="${url}">${hash}</a>`;
 }
 
 function needsSignature(doclet) {
