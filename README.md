@@ -8,7 +8,7 @@ A template based on [Docdash](https://github.com/clenemt/docdash) by [clenemtA](
 
 - Different color scheme (purple => blue)
 - Rewritten code to ES6
-- Updated to newest version of [prettify](https://github.com/google/code-prettify) (distrib => commit b5fa4d1 on 5 Mar 2019)
+- Updated to latest version of [prettify](https://github.com/google/code-prettify) (distrib => commit b5fa4d1 on 5 Mar 2019)
 - Optimized color scheme for prettify
 - Minified version available
 

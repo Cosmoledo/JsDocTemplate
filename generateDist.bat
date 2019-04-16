@@ -9,4 +9,3 @@ for /r "." %%f in (*.js) do (
 	cmd /c uglifyjs -m -c -o %%f %%f
 	echo %%f
 )
-pause
