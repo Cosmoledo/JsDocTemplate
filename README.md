@@ -29,6 +29,7 @@ To install it global:
 To install it for a local project:
 - Move the folder to your project dir
 - Set in your jsdoc-config-file "opts.template" to "JsDocTemplate"
+
 **HINT**: (path to JsDocTemplate-folder has to be relative to the config-file)
 
 ## Usage
