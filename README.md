@@ -19,8 +19,17 @@ A template based on [Docdash](https://github.com/clenemt/docdash) by [clenemtA](
 ## Install
 
 - Download this repository
-- Extract the dist-folder to  "C:\Users\USERNAME\AppData\Roaming\npm\node_modules\jsdoc\templates\"
+- Extract the dist-folder to any path
 - Rename the dist-folder to "JsDocTemplate"
+
+To install it global:
+- Move the folder to "C:\Users\USERNAME\AppData\Roaming\npm\node_modules\jsdoc\templates\"
+- Set in your jsdoc-config-file "opts.template" to "templates/JsDocTemplate"
+
+To install it for a local project:
+- Move the folder to your project dir
+- Set in your jsdoc-config-file "opts.template" to "JsDocTemplate"
+**HINT**: (path to JsDocTemplate-folder has to be relative to the config-file)
 
 ## Usage
 
